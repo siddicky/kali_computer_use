@@ -17,3 +17,6 @@ docker run -e ANTHROPIC_API_KEY=%ANTHROPIC_API_KEY% -v %USERPROFILE%\.anthropic:
 dos2unix *.sh（ホストOSがwindowsの場合）
 ./entrypoint.sh
 ```
+
+##注意
+windowsのみでしか検証を行っていません。
