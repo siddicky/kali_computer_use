@@ -2,7 +2,7 @@
 
 ![](https://github.com/yone456/kali_computer_use/blob/main/kali_log2.png)
 
-## セットアップ（1時間ほどかかります）
+## セットアップ（30分程かかります）
 
 ```
 git clone https://github.com/yone456/kali_computer_use.git
