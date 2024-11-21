@@ -18,5 +18,5 @@ dos2unix *.sh（ホストOSがwindowsの場合）
 ./entrypoint.sh
 ```
 
-##注意
+## 注意
 windowsのみでしか検証を行っていません。
