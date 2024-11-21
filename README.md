@@ -5,6 +5,6 @@
 ## Usage
 
 ```
-python zap_proxy.py
-python interactive_gpt.py
+git clone https://github.com/yone456/kali_computer_use.git
+cd kali_computer_use
 ```
