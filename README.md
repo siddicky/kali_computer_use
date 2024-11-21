@@ -7,4 +7,5 @@
 ```
 git clone https://github.com/yone456/kali_computer_use.git
 cd kali_computer_use/computer-use-demo/
+docker build -t kali:latest --no-cache .  
 ```
